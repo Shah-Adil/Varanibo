@@ -1,0 +1,86 @@
+[
+    {
+        "id" : 1 , 
+        "name" : "Event Photography" , 
+        "mainImage" : "https://ubersnap.com/blog/wp-content/uploads/2020/10/event-photographer-with-camera.jpg" , 
+        "hotelImages" : [
+            "https://ubersnap.com/blog/wp-content/uploads/2020/10/event-photographer-with-camera.jpg" ,
+            "https://www.premiumbeat.com/blog/wp-content/uploads/2019/03/shooting-event.jpg" , 
+            "https://ubersnap.com/blog/wp-content/uploads/2020/10/event-photographer-with-camera.jpg" ,
+            "https://www.premiumbeat.com/blog/wp-content/uploads/2019/03/shooting-event.jpg" , 
+            "https://ubersnap.com/blog/wp-content/uploads/2020/10/event-photographer-with-camera.jpg" ,
+            "https://www.premiumbeat.com/blog/wp-content/uploads/2019/03/shooting-event.jpg" 
+           
+        ] , 
+        "rating" : 6,
+        "location" : "Kolatoli, Cox's Bazar " , 
+        "roomPriceReg" : "5000" , 
+        "roomPriceDiscount" : "3000" ,
+        "hotelSubtitle" : "Get the celebrity treatment with world-class service at Crowne Plaza Dhaka Gulshan, an IHG Hotel",
+        "hotelDescribtion" : "Crowne Plaza Dhaka Gulshan, an IHG Hotel features a fitness center, a shared lounge and a sun terrace with swimming pool and buffet breakfast in Dhaka. This 5-star hotel offers a concierge service and luggage storage space. The property provides a 24-hour front desk, airport transportation, room service and free WiFi throughout the property.<br>  <br>At the hotel you'll find a restaurant serving Seafood, Steakhouse and Asian cuisine. Vegetarian and halal options can also be requested.<br> <br>Popular points of interest near Crowne Plaza Dhaka Gulshan, an IHG Hotel include Consulate of Singapore, Primeasia University and Southeast University. The nearest airport is Hazrat Shahjalal International Airport, 3.1 miles from the accommodation.<br> <br>Couples in particular like the location – they rated it <b>9.1</b> for a two-person trip. <br/> <br/> Distance in property description is calculated using © OpenStreetMap" ,
+        "hotelFac" : [
+            {
+                "icon" : "fa-solid fa-mug-hot" , 
+                "name" : "Very Good Breakfast"
+                
+            }
+            ,
+            {
+                "icon" : "fa-solid fa-mug-hot" , 
+                "name" : "Very Good Breakfast 1"
+                
+            }
+            ,
+            {
+                "icon" : "fa-solid fa-mug-hot" , 
+                "name" : "Very Good Breakfast 2"
+                
+            }
+        ] , 
+        "hotelRooms" : [
+            {
+                "roomId" : "roomId1" , 
+                "roomName" : "Standard " , 
+                "roomImage" : [
+                    "https://ubersnap.com/blog/wp-content/uploads/2020/10/event-photographer-with-camera.jpg" ,
+                    "https://www.premiumbeat.com/blog/wp-content/uploads/2019/03/shooting-event.jpg" 
+                ] ,
+                "roombed" : "Standard" , 
+                "roomGuest" : 2 , 
+                "roomExtraGuest" : 1 , 
+                "roomSize" : "27 m²" , 
+                "roomPrice" : 3000 , 
+                "roomDescribtion" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur dolore cumque ut officiis aut doloribus, exercitationem fugit. Sit cupiditate facilis veritatis consectetur necessitatibus suscipit ipsa quae, vero perferendis saepe rem."
+            },
+            {
+                "roomId" : "roomId2" , 
+                "roomName" : "Standard  1" , 
+                "roomImage" : [
+                    "https://ubersnap.com/blog/wp-content/uploads/2020/10/event-photographer-with-camera.jpg" ,
+                    "https://www.premiumbeat.com/blog/wp-content/uploads/2019/03/shooting-event.jpg" 
+                ] ,
+                "roombed" : "Standard" , 
+                "roomGuest" : 3 , 
+                "roomExtraGuest" : 1 , 
+                "roomSize" : "27 m²" , 
+                "roomPrice" : 3000 , 
+                "roomDescribtion" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur dolore cumque ut officiis aut doloribus, exercitationem fugit. Sit cupiditate facilis veritatis consectetur necessitatibus suscipit ipsa quae, vero perferendis saepe rem."
+            } , 
+            {
+                "roomId" : "roomId3" , 
+                "roomName" : "Standard  2" , 
+                "roomImage" : [
+                    "https://ubersnap.com/blog/wp-content/uploads/2020/10/event-photographer-with-camera.jpg" ,
+                    "https://www.premiumbeat.com/blog/wp-content/uploads/2019/03/shooting-event.jpg" 
+                ] ,
+                "roombed" : "Standard " , 
+                "roomGuest" : 3 , 
+                "roomExtraGuest" : 1 , 
+                "roomSize" : "27 m²" , 
+                "roomPrice" : 3000 , 
+                "roomDescribtion" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur dolore cumque ut officiis aut doloribus, exercitationem fugit. Sit cupiditate facilis veritatis consectetur necessitatibus suscipit ipsa quae, vero perferendis saepe rem."
+            }
+        ]
+    }
+
+]

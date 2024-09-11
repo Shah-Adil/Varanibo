@@ -1,0 +1,85 @@
+[
+    {
+        "id" : 1 , 
+        "name" : "Sayeman Beach Resorts  123" , 
+        "mainImage" : "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg" , 
+        "hotelImages" : [
+            "https://t3.ftcdn.net/jpg/00/29/13/38/360_F_29133877_bfA2n7cWV53fto2BomyZ6pyRujJTBwjd.jpg" ,
+            "https://www.peninsula.com/-/media/images/the-peninsula-hotels/destination/phk_exterior_1280.jpg" , 
+            "https://cdn.pixabay.com/photo/2016/11/17/09/28/hotel-1831072_640.jpg" , 
+            "https://t3.ftcdn.net/jpg/00/29/13/38/360_F_29133877_bfA2n7cWV53fto2BomyZ6pyRujJTBwjd.jpg" ,
+            "https://www.peninsula.com/-/media/images/the-peninsula-hotels/destination/phk_exterior_1280.jpg" , 
+            "https://cdn.pixabay.com/photo/2016/11/17/09/28/hotel-1831072_640.jpg"
+        ] , 
+        "rating" : 6,
+        "location" : "Kolatoli, Cox's Bazar " , 
+        "roomPriceReg" : "5000" , 
+        "roomPriceDiscount" : "3000" ,
+        "hotelSubtitle" : "Get the celebrity treatment with world-class service at Crowne Plaza Dhaka Gulshan, an IHG Hotel",
+        "hotelDescribtion" : "Crowne Plaza Dhaka Gulshan, an IHG Hotel features a fitness center, a shared lounge and a sun terrace with swimming pool and buffet breakfast in Dhaka. This 5-star hotel offers a concierge service and luggage storage space. The property provides a 24-hour front desk, airport transportation, room service and free WiFi throughout the property.<br>  <br>At the hotel you'll find a restaurant serving Seafood, Steakhouse and Asian cuisine. Vegetarian and halal options can also be requested.<br> <br>Popular points of interest near Crowne Plaza Dhaka Gulshan, an IHG Hotel include Consulate of Singapore, Primeasia University and Southeast University. The nearest airport is Hazrat Shahjalal International Airport, 3.1 miles from the accommodation.<br> <br>Couples in particular like the location – they rated it <b>9.1</b> for a two-person trip. <br/> <br/> Distance in property description is calculated using © OpenStreetMap" ,
+        "hotelFac" : [
+            {
+                "icon" : "fa-solid fa-mug-hot" , 
+                "name" : "Very Good Breakfast"
+                
+            }
+            ,
+            {
+                "icon" : "fa-solid fa-mug-hot" , 
+                "name" : "Very Good Breakfast 1"
+                
+            }
+            ,
+            {
+                "icon" : "fa-solid fa-mug-hot" , 
+                "name" : "Very Good Breakfast 2"
+                
+            }
+        ] , 
+        "hotelRooms" : [
+            {
+                "roomId" : "roomId1" , 
+                "roomName" : "Standard Room" , 
+                "roomImage" : [
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_b-YTwImwx9xjkL6YE5MMK1rxqNgkC1_7Q&s",
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3fWlJ8MpOS4ttBrPTrv84HdHrG9Sb66C6A&s"
+                ] ,
+                "roombed" : "1 queens bed" , 
+                "roomGuest" : 2 , 
+                "roomExtraGuest" : 1 , 
+                "roomSize" : "27 m²" , 
+                "roomPrice" : 3000 , 
+                "roomDescribtion" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur dolore cumque ut officiis aut doloribus, exercitationem fugit. Sit cupiditate facilis veritatis consectetur necessitatibus suscipit ipsa quae, vero perferendis saepe rem."
+            },
+            {
+                "roomId" : "roomId2" , 
+                "roomName" : "Standard Room 1" , 
+                "roomImage" : [
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_b-YTwImwx9xjkL6YE5MMK1rxqNgkC1_7Q&s",
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3fWlJ8MpOS4ttBrPTrv84HdHrG9Sb66C6A&s"
+                ] ,
+                "roombed" : "1 queens bed" , 
+                "roomGuest" : 3 , 
+                "roomExtraGuest" : 1 , 
+                "roomSize" : "27 m²" , 
+                "roomPrice" : 3000 , 
+                "roomDescribtion" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur dolore cumque ut officiis aut doloribus, exercitationem fugit. Sit cupiditate facilis veritatis consectetur necessitatibus suscipit ipsa quae, vero perferendis saepe rem."
+            } , 
+            {
+                "roomId" : "roomId3" , 
+                "roomName" : "Standard Room 2" , 
+                "roomImage" : [
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_b-YTwImwx9xjkL6YE5MMK1rxqNgkC1_7Q&s",
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3fWlJ8MpOS4ttBrPTrv84HdHrG9Sb66C6A&s"
+                ] ,
+                "roombed" : "1 queens bed" , 
+                "roomGuest" : 3 , 
+                "roomExtraGuest" : 1 , 
+                "roomSize" : "27 m²" , 
+                "roomPrice" : 3000 , 
+                "roomDescribtion" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur dolore cumque ut officiis aut doloribus, exercitationem fugit. Sit cupiditate facilis veritatis consectetur necessitatibus suscipit ipsa quae, vero perferendis saepe rem."
+            }
+        ]
+    }
+
+]
